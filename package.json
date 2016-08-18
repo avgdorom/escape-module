@@ -1,24 +1,21 @@
 {
-  "name": "my-nodejs-module",
+  "name": "escape-module",
   "version": "1.0.0",
   "description": "My first Node JS module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/avgdorom/my-nodejs-module.git"
+    "url": "https://github.com/avgdorom/escape-module.git"
   },
   "author": "Omri Avigdor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avgdorom/my-nodejs-module/issues"
+    "url": "https://github.com/avgdorom/escape-module/issues"
   },
   "scripts": {
     "test": "make test"
   },
-  "homepage": "https://github.com/avgdorom/my-nodejs-module",
+  "homepage": "https://github.com/avgdorom/escape-module",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.0.2"
